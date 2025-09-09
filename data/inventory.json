@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "id": "dj41-blue-diamond",
+      "title": "Rolex Datejust 41 Blue Diamond \u2022 Fluted Bezel \u2022 Oyster bracelet",
+      "model": "Datejust 41",
+      "reference": "126334",
+      "year": 2025,
+      "size": "41mm",
+      "bracelet": "Oyster",
+      "condition": "Brand New",
+      "box_papers": "Full Set",
+      "location": "USA",
+      "price": 15200,
+      "featured": true,
+      "images": [
+        "assets/placeholders/blue_diamond_dj41_1.jpg",
+        "assets/placeholders/blue_diamond_dj41_2.jpg",
+        "assets/placeholders/blue_diamond_dj41_3.jpg"
+      ],
+      "description": "Blue dial with factory diamond markers, white gold fluted bezel, Oyster bracelet. Fresh and stunning presence."
+    },{
+    "id": "dd-40-228238",
+    "title": "Rolex Day-Date 40 18k Yellow Gold",
+    "model": "Day-Date 40",
+    "reference": "228238",
+    "year": 2025,
+    "size": "40mm",
+    "bracelet": "President",
+    "condition": "Brand New",
+    "box_papers": "Full Set",
+    "location": "USA",
+    "price": 62000,
+    "featured": true,
+    "images": [
+      "assets/placeholders/IMG_5432.jpg",
+      "assets/placeholders/IMG_5431.jpg",
+      "assets/placeholders/IMG_5433.jpg",
+      "assets/placeholders/IMG_5434.jpg"
+
+    ],
+    "description": "Classic 18k yellow gold Day-Date 40 with elegant champagne dial. Icon of prestige and sophistication, featuring the iconic President bracelet. Perfect for collectors and connoisseurs seeking timeless luxury."
+  },
+    {
+      "id": "dj41-blue-index",
+      "title": "Rolex Datejust 41 Blue index \u2022 Fluted Bezel \u2022 Jubilee bracelet",
+      "model": "Datejust 41",
+      "reference": "126334",
+      "year": 2025,
+      "size": "41mm",
+      "bracelet": "Jubilee",
+      "condition": "Brand New",
+      "box_papers": "Full Set",
+      "location": "USA",
+      "price": 15200,
+      "featured": true,
+      "images": [
+        "assets/placeholders/blue_dj41_1.jpg",
+        "assets/placeholders/blue_dj41_2.jpg",
+        "assets/placeholders/blue_dj41_3.jpg",
+         "assets/placeholders/blue_dj41_4.jpg",
+        "assets/placeholders/blue_dj41_5.jpg"
+      ],
+      "description": "Blue dial with index markers, white gold fluted bezel, Jubilee bracelet. Fresh and stunning presence."
+    },
+    {
+      "id": "submariner-date-black",
+      "title": "Rolex Submariner Date Black",
+      "model": "Submariner Date",
+      "reference": "126610LN",
+      "year": 2025,
+      "size": "41mm",
+      "bracelet": "Oyster",
+      "condition": "Brand New",
+      "box_papers": "Full Set",
+      "location": "USA",
+      "price": 12150,
+      "featured": true,
+      "images": [
+        "assets/placeholders/IMG_6519.jpg",
+        "assets/placeholders/IMG_6505.jpg"
+      ],
+      "description": "Clean, classic Submariner with ceramic bezel and robust presence. A modern staple."
+    },
+    {
+      "id": "op-tiffany-31",
+      "title": "Rolex Oyster Perpetual Tiffany Blue 31",
+      "model": "Oyster Perpetual",
+      "reference": "277200",
+      "year": 2025,
+      "size": "31mm",
+      "bracelet": "Oyster",
+      "condition": "Brand New",
+      "box_papers": "Full Set",
+      "location": "USA",
+      "price": 9800,
+      "featured": false,
+      "images": [
+        "assets/placeholders/IMG_8608.jpg",
+        "assets/placeholders/IMG_8613.jpg",
+        "assets/placeholders/IMG_8610.jpg"
+
+      ],
+      "description": "Vibrant Tiffany blue dial. Playful yet refined; highly sought after."
+    }
+      
+  ]
+}
